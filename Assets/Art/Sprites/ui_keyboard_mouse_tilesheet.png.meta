@@ -1,0 +1,6976 @@
+fileFormatVersion: 2
+guid: ebcb057c54c4c4fef9cc44243f1117f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8283727764929201237
+    second: keyboard-&-mouse_sheet_default_0
+  - first:
+      213: 4810695486445252902
+    second: keyboard-&-mouse_sheet_default_1
+  - first:
+      213: -5974406543281067024
+    second: keyboard-&-mouse_sheet_default_2
+  - first:
+      213: 7878473167383534075
+    second: keyboard-&-mouse_sheet_default_3
+  - first:
+      213: 3073330705845036723
+    second: keyboard-&-mouse_sheet_default_4
+  - first:
+      213: -6789721244551742498
+    second: keyboard-&-mouse_sheet_default_5
+  - first:
+      213: -2058929701524013837
+    second: keyboard-&-mouse_sheet_default_6
+  - first:
+      213: 6117313770729182512
+    second: keyboard-&-mouse_sheet_default_7
+  - first:
+      213: 6559676260175362901
+    second: keyboard-&-mouse_sheet_default_8
+  - first:
+      213: -571064378588134586
+    second: keyboard-&-mouse_sheet_default_9
+  - first:
+      213: -4345118690488073671
+    second: keyboard-&-mouse_sheet_default_10
+  - first:
+      213: -5101333153276663828
+    second: keyboard-&-mouse_sheet_default_11
+  - first:
+      213: -1152403685258730831
+    second: keyboard-&-mouse_sheet_default_12
+  - first:
+      213: 6925276044767307991
+    second: keyboard-&-mouse_sheet_default_13
+  - first:
+      213: 2507150880493582664
+    second: keyboard-&-mouse_sheet_default_14
+  - first:
+      213: 381904355556551801
+    second: keyboard-&-mouse_sheet_default_15
+  - first:
+      213: -382154845140309954
+    second: keyboard-&-mouse_sheet_default_16
+  - first:
+      213: 7710018810935531294
+    second: keyboard-&-mouse_sheet_default_17
+  - first:
+      213: -6202846610374908671
+    second: keyboard-&-mouse_sheet_default_18
+  - first:
+      213: -8486206742355726098
+    second: keyboard-&-mouse_sheet_default_19
+  - first:
+      213: 4670419671174946307
+    second: keyboard-&-mouse_sheet_default_20
+  - first:
+      213: 972943905916894760
+    second: keyboard-&-mouse_sheet_default_21
+  - first:
+      213: 7428193514927002848
+    second: keyboard-&-mouse_sheet_default_22
+  - first:
+      213: -7451619021821774267
+    second: keyboard-&-mouse_sheet_default_23
+  - first:
+      213: -3380374414625505216
+    second: keyboard-&-mouse_sheet_default_24
+  - first:
+      213: -6753667123223060803
+    second: keyboard-&-mouse_sheet_default_25
+  - first:
+      213: 5489465785934366633
+    second: keyboard-&-mouse_sheet_default_26
+  - first:
+      213: 1551075602663032784
+    second: keyboard-&-mouse_sheet_default_27
+  - first:
+      213: -496373326986701258
+    second: keyboard-&-mouse_sheet_default_28
+  - first:
+      213: 2300117324159740190
+    second: keyboard-&-mouse_sheet_default_29
+  - first:
+      213: -6977935615192615051
+    second: keyboard-&-mouse_sheet_default_30
+  - first:
+      213: 8733655664084757843
+    second: keyboard-&-mouse_sheet_default_31
+  - first:
+      213: 7627819669599829027
+    second: keyboard-&-mouse_sheet_default_32
+  - first:
+      213: 2243739404591960638
+    second: keyboard-&-mouse_sheet_default_33
+  - first:
+      213: 1325220081298464364
+    second: keyboard-&-mouse_sheet_default_34
+  - first:
+      213: -7866666888819638845
+    second: keyboard-&-mouse_sheet_default_35
+  - first:
+      213: -7941319182457364220
+    second: keyboard-&-mouse_sheet_default_36
+  - first:
+      213: -5420614511671561363
+    second: keyboard-&-mouse_sheet_default_37
+  - first:
+      213: 1077987626616299234
+    second: keyboard-&-mouse_sheet_default_38
+  - first:
+      213: -8195743781610705357
+    second: keyboard-&-mouse_sheet_default_39
+  - first:
+      213: 1871482153184925027
+    second: keyboard-&-mouse_sheet_default_40
+  - first:
+      213: 4843398299466007237
+    second: keyboard-&-mouse_sheet_default_41
+  - first:
+      213: -6237063489124733541
+    second: keyboard-&-mouse_sheet_default_42
+  - first:
+      213: -4700330120228638870
+    second: keyboard-&-mouse_sheet_default_43
+  - first:
+      213: -80578002448892836
+    second: keyboard-&-mouse_sheet_default_44
+  - first:
+      213: 6050341359193519533
+    second: keyboard-&-mouse_sheet_default_45
+  - first:
+      213: -7041938142251584699
+    second: keyboard-&-mouse_sheet_default_46
+  - first:
+      213: -5244117043512538777
+    second: keyboard-&-mouse_sheet_default_47
+  - first:
+      213: -7906449465492437727
+    second: keyboard-&-mouse_sheet_default_48
+  - first:
+      213: -4197127240999167946
+    second: keyboard-&-mouse_sheet_default_49
+  - first:
+      213: -7392072625647694356
+    second: keyboard-&-mouse_sheet_default_50
+  - first:
+      213: -336679379898155932
+    second: keyboard-&-mouse_sheet_default_51
+  - first:
+      213: 3109713647028640833
+    second: keyboard-&-mouse_sheet_default_52
+  - first:
+      213: 1520529251556769737
+    second: keyboard-&-mouse_sheet_default_53
+  - first:
+      213: 6162381886584421261
+    second: keyboard-&-mouse_sheet_default_54
+  - first:
+      213: 4376061816203742899
+    second: keyboard-&-mouse_sheet_default_55
+  - first:
+      213: -3872681403726969952
+    second: keyboard-&-mouse_sheet_default_56
+  - first:
+      213: -3861845909512434387
+    second: keyboard-&-mouse_sheet_default_57
+  - first:
+      213: 2500262604715671403
+    second: keyboard-&-mouse_sheet_default_58
+  - first:
+      213: -7412266602778909197
+    second: keyboard-&-mouse_sheet_default_59
+  - first:
+      213: -1459793778934832399
+    second: keyboard-&-mouse_sheet_default_60
+  - first:
+      213: -8475136563624736501
+    second: keyboard-&-mouse_sheet_default_61
+  - first:
+      213: -5054563252863175915
+    second: keyboard-&-mouse_sheet_default_62
+  - first:
+      213: 2959267599205702327
+    second: keyboard-&-mouse_sheet_default_63
+  - first:
+      213: -6695247469892106726
+    second: keyboard-&-mouse_sheet_default_64
+  - first:
+      213: 2920929125322640779
+    second: keyboard-&-mouse_sheet_default_65
+  - first:
+      213: 9077469456057406696
+    second: keyboard-&-mouse_sheet_default_66
+  - first:
+      213: -5814246250596379099
+    second: keyboard-&-mouse_sheet_default_67
+  - first:
+      213: -4374370672776228466
+    second: keyboard-&-mouse_sheet_default_68
+  - first:
+      213: 2025850895138638470
+    second: keyboard-&-mouse_sheet_default_69
+  - first:
+      213: 3937577667404023982
+    second: keyboard-&-mouse_sheet_default_70
+  - first:
+      213: 9030974995008583152
+    second: keyboard-&-mouse_sheet_default_71
+  - first:
+      213: -5482601181860443066
+    second: keyboard-&-mouse_sheet_default_72
+  - first:
+      213: -7386770177489703575
+    second: keyboard-&-mouse_sheet_default_73
+  - first:
+      213: -3175129171906322356
+    second: keyboard-&-mouse_sheet_default_74
+  - first:
+      213: -3100460901121519525
+    second: keyboard-&-mouse_sheet_default_75
+  - first:
+      213: 3830590477527409246
+    second: keyboard-&-mouse_sheet_default_76
+  - first:
+      213: 6749932509389715149
+    second: keyboard-&-mouse_sheet_default_77
+  - first:
+      213: -8490629155069117693
+    second: keyboard-&-mouse_sheet_default_78
+  - first:
+      213: -5619198973349107845
+    second: keyboard-&-mouse_sheet_default_79
+  - first:
+      213: 1993280026619792292
+    second: keyboard-&-mouse_sheet_default_80
+  - first:
+      213: 2002701952839254630
+    second: keyboard-&-mouse_sheet_default_81
+  - first:
+      213: 2167625891066988490
+    second: keyboard-&-mouse_sheet_default_82
+  - first:
+      213: 6093811241781193198
+    second: keyboard-&-mouse_sheet_default_83
+  - first:
+      213: 260541054628473794
+    second: keyboard-&-mouse_sheet_default_84
+  - first:
+      213: 1375508971158614581
+    second: keyboard-&-mouse_sheet_default_85
+  - first:
+      213: 2025804841387841852
+    second: keyboard-&-mouse_sheet_default_86
+  - first:
+      213: -1161966342088870799
+    second: keyboard-&-mouse_sheet_default_87
+  - first:
+      213: -3138877159474672277
+    second: keyboard-&-mouse_sheet_default_88
+  - first:
+      213: -502819982806084395
+    second: keyboard-&-mouse_sheet_default_89
+  - first:
+      213: 2750064379495974035
+    second: keyboard-&-mouse_sheet_default_90
+  - first:
+      213: -2376529943460221661
+    second: keyboard-&-mouse_sheet_default_91
+  - first:
+      213: 3176443439194301299
+    second: keyboard-&-mouse_sheet_default_92
+  - first:
+      213: 4861995719418999551
+    second: keyboard-&-mouse_sheet_default_93
+  - first:
+      213: 3899155613612111099
+    second: keyboard-&-mouse_sheet_default_94
+  - first:
+      213: -7449744007501354097
+    second: keyboard-&-mouse_sheet_default_95
+  - first:
+      213: 6814302300005806630
+    second: keyboard-&-mouse_sheet_default_96
+  - first:
+      213: -7858727495294646818
+    second: keyboard-&-mouse_sheet_default_97
+  - first:
+      213: -6314781968234727745
+    second: keyboard-&-mouse_sheet_default_98
+  - first:
+      213: -2537185805583742715
+    second: keyboard-&-mouse_sheet_default_99
+  - first:
+      213: 3474282959687600783
+    second: keyboard-&-mouse_sheet_default_100
+  - first:
+      213: -7732392679697339572
+    second: keyboard-&-mouse_sheet_default_101
+  - first:
+      213: 2337396725250653121
+    second: keyboard-&-mouse_sheet_default_102
+  - first:
+      213: 8955956896966794585
+    second: keyboard-&-mouse_sheet_default_103
+  - first:
+      213: -5991100164819967659
+    second: keyboard-&-mouse_sheet_default_104
+  - first:
+      213: 1172661855616321523
+    second: keyboard-&-mouse_sheet_default_105
+  - first:
+      213: -5740858954309540875
+    second: keyboard-&-mouse_sheet_default_106
+  - first:
+      213: 2066091552978868491
+    second: keyboard-&-mouse_sheet_default_107
+  - first:
+      213: 1397403750345181170
+    second: keyboard-&-mouse_sheet_default_108
+  - first:
+      213: 2121037499209468756
+    second: keyboard-&-mouse_sheet_default_109
+  - first:
+      213: -923449784886321878
+    second: keyboard-&-mouse_sheet_default_110
+  - first:
+      213: -1395828675328930186
+    second: keyboard-&-mouse_sheet_default_111
+  - first:
+      213: -5809116158015934856
+    second: keyboard-&-mouse_sheet_default_112
+  - first:
+      213: 5313560910987607710
+    second: keyboard-&-mouse_sheet_default_113
+  - first:
+      213: -3055165392657565530
+    second: keyboard-&-mouse_sheet_default_114
+  - first:
+      213: 6305939136856850256
+    second: keyboard-&-mouse_sheet_default_115
+  - first:
+      213: -2629887828646951491
+    second: keyboard-&-mouse_sheet_default_116
+  - first:
+      213: -5562167090282592953
+    second: keyboard-&-mouse_sheet_default_117
+  - first:
+      213: -8994971564940253774
+    second: keyboard-&-mouse_sheet_default_118
+  - first:
+      213: 2255902776060024309
+    second: keyboard-&-mouse_sheet_default_119
+  - first:
+      213: 3951992120539812736
+    second: keyboard-&-mouse_sheet_default_120
+  - first:
+      213: -949050721969746136
+    second: keyboard-&-mouse_sheet_default_121
+  - first:
+      213: -7776602419377290430
+    second: keyboard-&-mouse_sheet_default_122
+  - first:
+      213: 8052190104323690238
+    second: keyboard-&-mouse_sheet_default_123
+  - first:
+      213: 7172524944812009059
+    second: keyboard-&-mouse_sheet_default_124
+  - first:
+      213: -8270017493811558463
+    second: keyboard-&-mouse_sheet_default_125
+  - first:
+      213: 3752602964015090918
+    second: keyboard-&-mouse_sheet_default_126
+  - first:
+      213: 6849586447291936527
+    second: keyboard-&-mouse_sheet_default_127
+  - first:
+      213: -5282337177604953108
+    second: keyboard-&-mouse_sheet_default_128
+  - first:
+      213: 4624752208950889671
+    second: keyboard-&-mouse_sheet_default_129
+  - first:
+      213: 7091028214779035295
+    second: keyboard-&-mouse_sheet_default_130
+  - first:
+      213: 1342818945772897166
+    second: keyboard-&-mouse_sheet_default_131
+  - first:
+      213: -7202297200889093639
+    second: keyboard-&-mouse_sheet_default_132
+  - first:
+      213: -5924035277295212613
+    second: keyboard-&-mouse_sheet_default_133
+  - first:
+      213: 7531583456298487666
+    second: keyboard-&-mouse_sheet_default_134
+  - first:
+      213: 8379696180095660238
+    second: keyboard-&-mouse_sheet_default_135
+  - first:
+      213: -7917176160357573620
+    second: keyboard-&-mouse_sheet_default_136
+  - first:
+      213: 2243300749344101894
+    second: keyboard-&-mouse_sheet_default_137
+  - first:
+      213: 8816317645597160959
+    second: keyboard-&-mouse_sheet_default_138
+  - first:
+      213: 2506078532386511574
+    second: keyboard-&-mouse_sheet_default_139
+  - first:
+      213: 891978874120291408
+    second: keyboard-&-mouse_sheet_default_140
+  - first:
+      213: 1576726038872154418
+    second: keyboard-&-mouse_sheet_default_141
+  - first:
+      213: 6874521360997688320
+    second: keyboard-&-mouse_sheet_default_142
+  - first:
+      213: -1184851714624340894
+    second: keyboard-&-mouse_sheet_default_143
+  - first:
+      213: -3918494843001218066
+    second: keyboard-&-mouse_sheet_default_144
+  - first:
+      213: 6669308525148264959
+    second: keyboard-&-mouse_sheet_default_145
+  - first:
+      213: 7388678590715592198
+    second: keyboard-&-mouse_sheet_default_146
+  - first:
+      213: -5401642345129496604
+    second: keyboard-&-mouse_sheet_default_147
+  - first:
+      213: 6185322123484701200
+    second: keyboard-&-mouse_sheet_default_148
+  - first:
+      213: 5465209775876949386
+    second: keyboard-&-mouse_sheet_default_149
+  - first:
+      213: -5552291139867895072
+    second: keyboard-&-mouse_sheet_default_150
+  - first:
+      213: 7825035189450179953
+    second: keyboard-&-mouse_sheet_default_151
+  - first:
+      213: -4323516441227872930
+    second: keyboard-&-mouse_sheet_default_152
+  - first:
+      213: -6582685064662837994
+    second: keyboard-&-mouse_sheet_default_153
+  - first:
+      213: -1039111520385637303
+    second: keyboard-&-mouse_sheet_default_154
+  - first:
+      213: -7393919178739148553
+    second: keyboard-&-mouse_sheet_default_155
+  - first:
+      213: 4336928106637823353
+    second: keyboard-&-mouse_sheet_default_156
+  - first:
+      213: 33399116194471550
+    second: keyboard-&-mouse_sheet_default_157
+  - first:
+      213: 2426054215306493665
+    second: keyboard-&-mouse_sheet_default_158
+  - first:
+      213: -8380616245211126697
+    second: keyboard-&-mouse_sheet_default_159
+  - first:
+      213: 1204003656614373633
+    second: keyboard-&-mouse_sheet_default_160
+  - first:
+      213: 1731874312271744812
+    second: keyboard-&-mouse_sheet_default_161
+  - first:
+      213: 4965478005034398893
+    second: keyboard-&-mouse_sheet_default_162
+  - first:
+      213: 2045365627236965207
+    second: keyboard-&-mouse_sheet_default_163
+  - first:
+      213: 5914366668578378981
+    second: keyboard-&-mouse_sheet_default_164
+  - first:
+      213: -3264410047712496939
+    second: keyboard-&-mouse_sheet_default_165
+  - first:
+      213: -8947771149216168001
+    second: keyboard-&-mouse_sheet_default_166
+  - first:
+      213: -832081539797224322
+    second: keyboard-&-mouse_sheet_default_167
+  - first:
+      213: -4501762904215423713
+    second: keyboard-&-mouse_sheet_default_168
+  - first:
+      213: -7237185271798577639
+    second: keyboard-&-mouse_sheet_default_169
+  - first:
+      213: -6421789491653249263
+    second: keyboard-&-mouse_sheet_default_170
+  - first:
+      213: -6718586422388830545
+    second: keyboard-&-mouse_sheet_default_171
+  - first:
+      213: -5649157435694954543
+    second: keyboard-&-mouse_sheet_default_172
+  - first:
+      213: 2531293871830611492
+    second: keyboard-&-mouse_sheet_default_173
+  - first:
+      213: 4519877290489431357
+    second: keyboard-&-mouse_sheet_default_174
+  - first:
+      213: 1602286101321819464
+    second: keyboard-&-mouse_sheet_default_175
+  - first:
+      213: -4388331920391359683
+    second: keyboard-&-mouse_sheet_default_176
+  - first:
+      213: -6497593938625092999
+    second: keyboard-&-mouse_sheet_default_177
+  - first:
+      213: -688793192367014122
+    second: keyboard-&-mouse_sheet_default_178
+  - first:
+      213: -7742758017407707245
+    second: keyboard-&-mouse_sheet_default_179
+  - first:
+      213: 5084169815767906796
+    second: keyboard-&-mouse_sheet_default_180
+  - first:
+      213: 349189448147554073
+    second: keyboard-&-mouse_sheet_default_181
+  - first:
+      213: 5451677837828620625
+    second: keyboard-&-mouse_sheet_default_182
+  - first:
+      213: -1918204502727380642
+    second: keyboard-&-mouse_sheet_default_183
+  - first:
+      213: 5458093548009619568
+    second: keyboard-&-mouse_sheet_default_184
+  - first:
+      213: 475361996101895501
+    second: keyboard-&-mouse_sheet_default_185
+  - first:
+      213: -2045160390799257875
+    second: keyboard-&-mouse_sheet_default_186
+  - first:
+      213: 9017886265940644514
+    second: keyboard-&-mouse_sheet_default_187
+  - first:
+      213: -6616218068792077959
+    second: keyboard-&-mouse_sheet_default_188
+  - first:
+      213: 7573593183153961875
+    second: keyboard-&-mouse_sheet_default_189
+  - first:
+      213: -5960830214616782223
+    second: keyboard-&-mouse_sheet_default_190
+  - first:
+      213: 6305662022716254266
+    second: keyboard-&-mouse_sheet_default_191
+  - first:
+      213: 1483620023641066447
+    second: keyboard-&-mouse_sheet_default_192
+  - first:
+      213: 4873468346472187517
+    second: keyboard-&-mouse_sheet_default_193
+  - first:
+      213: 3869444493047270221
+    second: keyboard-&-mouse_sheet_default_194
+  - first:
+      213: -99710780948328049
+    second: keyboard-&-mouse_sheet_default_195
+  - first:
+      213: 6722472573022730964
+    second: keyboard-&-mouse_sheet_default_196
+  - first:
+      213: 4430771176742627773
+    second: keyboard-&-mouse_sheet_default_197
+  - first:
+      213: -3325697710985550284
+    second: keyboard-&-mouse_sheet_default_198
+  - first:
+      213: -6450343781922325822
+    second: keyboard-&-mouse_sheet_default_199
+  - first:
+      213: 881492973308460351
+    second: keyboard-&-mouse_sheet_default_200
+  - first:
+      213: -6090285094971386345
+    second: keyboard-&-mouse_sheet_default_201
+  - first:
+      213: 6862357658868976478
+    second: keyboard-&-mouse_sheet_default_202
+  - first:
+      213: -7936141360340331649
+    second: keyboard-&-mouse_sheet_default_203
+  - first:
+      213: -3984522088722169409
+    second: keyboard-&-mouse_sheet_default_204
+  - first:
+      213: -7888945001670805900
+    second: keyboard-&-mouse_sheet_default_205
+  - first:
+      213: 2937465350749579900
+    second: keyboard-&-mouse_sheet_default_206
+  - first:
+      213: -2482136940538106837
+    second: keyboard-&-mouse_sheet_default_207
+  - first:
+      213: -4123672189159505153
+    second: keyboard-&-mouse_sheet_default_208
+  - first:
+      213: -5265583609845146846
+    second: keyboard-&-mouse_sheet_default_209
+  - first:
+      213: -2895969439219221383
+    second: keyboard-&-mouse_sheet_default_210
+  - first:
+      213: -6379954020946279652
+    second: keyboard-&-mouse_sheet_default_211
+  - first:
+      213: -6701615322817148282
+    second: keyboard-&-mouse_sheet_default_212
+  - first:
+      213: -6204796479136184558
+    second: keyboard-&-mouse_sheet_default_213
+  - first:
+      213: 1235704683423470759
+    second: keyboard-&-mouse_sheet_default_214
+  - first:
+      213: 8947604605554982267
+    second: keyboard-&-mouse_sheet_default_215
+  - first:
+      213: -5481944370366780346
+    second: keyboard-&-mouse_sheet_default_216
+  - first:
+      213: 5749372481460903198
+    second: keyboard-&-mouse_sheet_default_217
+  - first:
+      213: -7634220771380451391
+    second: keyboard-&-mouse_sheet_default_218
+  - first:
+      213: -618428101134659456
+    second: keyboard-&-mouse_sheet_default_219
+  - first:
+      213: 6195953979815667930
+    second: keyboard-&-mouse_sheet_default_220
+  - first:
+      213: 3183619783206701484
+    second: keyboard-&-mouse_sheet_default_221
+  - first:
+      213: 2162093124076890290
+    second: keyboard-&-mouse_sheet_default_222
+  - first:
+      213: -9151982183334550383
+    second: keyboard-&-mouse_sheet_default_223
+  - first:
+      213: 2677992071794837743
+    second: keyboard-&-mouse_sheet_default_224
+  - first:
+      213: -8798850559342592682
+    second: keyboard-&-mouse_sheet_default_225
+  - first:
+      213: 5712678793230459239
+    second: keyboard-&-mouse_sheet_default_226
+  - first:
+      213: 1842372113344776386
+    second: keyboard-&-mouse_sheet_default_227
+  - first:
+      213: 7571101209591376584
+    second: keyboard-&-mouse_sheet_default_228
+  - first:
+      213: -595068056951422440
+    second: keyboard-&-mouse_sheet_default_229
+  - first:
+      213: -3131315828420955117
+    second: keyboard-&-mouse_sheet_default_230
+  - first:
+      213: -7561398537924417127
+    second: keyboard-&-mouse_sheet_default_231
+  - first:
+      213: -7392921387441185419
+    second: keyboard-&-mouse_sheet_default_232
+  - first:
+      213: 9026883209798780324
+    second: keyboard-&-mouse_sheet_default_233
+  - first:
+      213: -5252200146158505091
+    second: keyboard-&-mouse_sheet_default_234
+  - first:
+      213: 1115208045557937789
+    second: keyboard-&-mouse_sheet_default_235
+  - first:
+      213: -6170576790001745439
+    second: keyboard-&-mouse_sheet_default_236
+  - first:
+      213: -2201753682798253646
+    second: keyboard-&-mouse_sheet_default_237
+  - first:
+      213: -7827325480268855750
+    second: keyboard-&-mouse_sheet_default_238
+  - first:
+      213: 3187066113430425378
+    second: keyboard-&-mouse_sheet_default_239
+  - first:
+      213: -1751739954616106108
+    second: keyboard-&-mouse_sheet_default_240
+  - first:
+      213: -8301563140155737370
+    second: keyboard-&-mouse_sheet_default_241
+  - first:
+      213: -2610995108220415400
+    second: keyboard-&-mouse_sheet_default_242
+  - first:
+      213: 6615507903569677482
+    second: keyboard-&-mouse_sheet_default_243
+  - first:
+      213: 8193977710285128106
+    second: keyboard-&-mouse_sheet_default_244
+  - first:
+      213: -6852612838484172265
+    second: keyboard-&-mouse_sheet_default_245
+  - first:
+      213: -3214722875396688105
+    second: keyboard-&-mouse_sheet_default_246
+  - first:
+      213: -8818965928429678841
+    second: keyboard-&-mouse_sheet_default_247
+  - first:
+      213: 3770627360450736171
+    second: keyboard-&-mouse_sheet_default_248
+  - first:
+      213: -5616145736230843027
+    second: keyboard-&-mouse_sheet_default_249
+  - first:
+      213: -5206672666693586092
+    second: keyboard-&-mouse_sheet_default_250
+  - first:
+      213: -1046939404165420267
+    second: keyboard-&-mouse_sheet_default_251
+  - first:
+      213: -2336582675707677157
+    second: keyboard-&-mouse_sheet_default_252
+  - first:
+      213: 1258633368574837814
+    second: keyboard-&-mouse_sheet_default_253
+  - first:
+      213: -2357051892342763722
+    second: keyboard-&-mouse_sheet_default_254
+  - first:
+      213: -657436363370156253
+    second: keyboard-&-mouse_sheet_default_255
+  - first:
+      213: -1743956674922027339
+    second: keyboard-&-mouse_sheet_default_256
+  - first:
+      213: 6303633462638901653
+    second: keyboard-&-mouse_sheet_default_257
+  - first:
+      213: 4145235205612086412
+    second: keyboard-&-mouse_sheet_default_258
+  - first:
+      213: -8950699418124939401
+    second: keyboard-&-mouse_sheet_default_259
+  - first:
+      213: -6886316849577802162
+    second: keyboard-&-mouse_sheet_default_260
+  - first:
+      213: -885568196716149928
+    second: keyboard-&-mouse_sheet_default_261
+  - first:
+      213: -7725246744901377748
+    second: keyboard-&-mouse_sheet_default_262
+  - first:
+      213: -5762594873784762698
+    second: keyboard-&-mouse_sheet_default_263
+  - first:
+      213: 5270812882750151531
+    second: keyboard-&-mouse_sheet_default_264
+  - first:
+      213: -7383063855677140788
+    second: keyboard-&-mouse_sheet_default_265
+  - first:
+      213: -3873576743338332751
+    second: keyboard-&-mouse_sheet_default_266
+  - first:
+      213: 8356841057111765937
+    second: keyboard-&-mouse_sheet_default_267
+  - first:
+      213: 3784280272211870659
+    second: keyboard-&-mouse_sheet_default_268
+  - first:
+      213: -2300436355711172333
+    second: keyboard-&-mouse_sheet_default_269
+  - first:
+      213: 3514460477249127706
+    second: keyboard-&-mouse_sheet_default_270
+  - first:
+      213: -4807405705460612800
+    second: keyboard-&-mouse_sheet_default_271
+  - first:
+      213: -4145484705118496631
+    second: keyboard-&-mouse_sheet_default_272
+  - first:
+      213: -851771359865841227
+    second: keyboard-&-mouse_sheet_default_273
+  - first:
+      213: 6091926755782802305
+    second: keyboard-&-mouse_sheet_default_274
+  - first:
+      213: 7207191540010407015
+    second: keyboard-&-mouse_sheet_default_275
+  - first:
+      213: -6646103345754858953
+    second: keyboard-&-mouse_sheet_default_276
+  - first:
+      213: 1240351762914145559
+    second: keyboard-&-mouse_sheet_default_277
+  - first:
+      213: 7546490645991105414
+    second: keyboard-&-mouse_sheet_default_278
+  - first:
+      213: 958752450384583340
+    second: keyboard-&-mouse_sheet_default_279
+  - first:
+      213: -8477157441260446918
+    second: keyboard-&-mouse_sheet_default_280
+  - first:
+      213: 215294559226408623
+    second: keyboard-&-mouse_sheet_default_281
+  - first:
+      213: 2272293142296933684
+    second: keyboard-&-mouse_sheet_default_282
+  - first:
+      213: 7894985253328136013
+    second: keyboard-&-mouse_sheet_default_283
+  - first:
+      213: 4299851107685468598
+    second: keyboard-&-mouse_sheet_default_284
+  - first:
+      213: 4807538982601025064
+    second: keyboard-&-mouse_sheet_default_285
+  - first:
+      213: 147716447888212573
+    second: keyboard-&-mouse_sheet_default_286
+  - first:
+      213: 5662872498988993876
+    second: keyboard-&-mouse_sheet_default_287
+  - first:
+      213: 517617706534681377
+    second: keyboard-&-mouse_sheet_default_288
+  - first:
+      213: 8706070099603029995
+    second: keyboard-&-mouse_sheet_default_289
+  - first:
+      213: -8557760750246625548
+    second: keyboard-&-mouse_sheet_default_290
+  - first:
+      213: 9025568381598953862
+    second: keyboard-&-mouse_sheet_default_291
+  - first:
+      213: 5566402458566024664
+    second: keyboard-&-mouse_sheet_default_292
+  - first:
+      213: 1692736144539165048
+    second: keyboard-&-mouse_sheet_default_293
+  - first:
+      213: -2343975693024024208
+    second: keyboard-&-mouse_sheet_default_294
+  - first:
+      213: -7933708164378592583
+    second: keyboard-&-mouse_sheet_default_295
+  - first:
+      213: 7983044558087329561
+    second: keyboard-&-mouse_sheet_default_296
+  - first:
+      213: 26042891415723039
+    second: keyboard-&-mouse_sheet_default_297
+  - first:
+      213: 5109422400629629286
+    second: keyboard-&-mouse_sheet_default_298
+  - first:
+      213: -2857907635753843918
+    second: keyboard-&-mouse_sheet_default_299
+  - first:
+      213: 3088762229953010599
+    second: keyboard-&-mouse_sheet_default_300
+  - first:
+      213: 7212000448445163648
+    second: keyboard-&-mouse_sheet_default_301
+  - first:
+      213: -2800913693964329474
+    second: keyboard-&-mouse_sheet_default_302
+  - first:
+      213: 2050356887508524996
+    second: keyboard-&-mouse_sheet_default_303
+  - first:
+      213: 27674981035474078
+    second: keyboard-&-mouse_sheet_default_304
+  - first:
+      213: -4984042516746401565
+    second: keyboard-&-mouse_sheet_default_305
+  - first:
+      213: -10420355946434079
+    second: keyboard-&-mouse_sheet_default_306
+  - first:
+      213: 3936058615386727746
+    second: keyboard-&-mouse_sheet_default_307
+  - first:
+      213: 6060885922292790847
+    second: keyboard-&-mouse_sheet_default_308
+  - first:
+      213: -7232806254205041958
+    second: keyboard-&-mouse_sheet_default_309
+  - first:
+      213: 5066236877022302034
+    second: keyboard-&-mouse_sheet_default_310
+  - first:
+      213: -817725699219709376
+    second: keyboard-&-mouse_sheet_default_311
+  - first:
+      213: -7569722909026375994
+    second: keyboard-&-mouse_sheet_default_312
+  - first:
+      213: 2973647868956621239
+    second: keyboard-&-mouse_sheet_default_313
+  - first:
+      213: -8338397048602693321
+    second: keyboard-&-mouse_sheet_default_314
+  - first:
+      213: -4092177195594643234
+    second: keyboard-&-mouse_sheet_default_315
+  - first:
+      213: -7043761859550038987
+    second: keyboard-&-mouse_sheet_default_316
+  - first:
+      213: 9097790516925814443
+    second: keyboard-&-mouse_sheet_default_317
+  - first:
+      213: 7226246654250945867
+    second: keyboard-&-mouse_sheet_default_318
+  - first:
+      213: 287439870768746525
+    second: keyboard-&-mouse_sheet_default_319
+  - first:
+      213: 6556186075120730581
+    second: keyboard-&-mouse_sheet_default_320
+  - first:
+      213: -8885540083930419608
+    second: keyboard-&-mouse_sheet_default_321
+  - first:
+      213: 38103906567850150
+    second: keyboard-&-mouse_sheet_default_322
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79d88f2c79b4a0c8fc6472e5106ab5
+      internalID: 1125267578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e111a69136e94d59b61c7bb94fb450b
+      internalID: 1627997035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a30689bcbc754d4698f26b2f7322295
+      internalID: 1828657141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e7ed72edea4bef9e49237dfd12a4f
+      internalID: 472978433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73268c40120648f1b2760275fe86a52
+      internalID: 636908383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987af633e08874f4bb92412e65fd4542
+      internalID: -115087006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830549a5572140eea61c78828cfbe65
+      internalID: -609434276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc13ba9ccbbe44589ace481be3786778
+      internalID: -1290627880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a0a68782d748de80f170723fcb683
+      internalID: 1987500639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f04b4fd297b406296e338bca15af2c
+      internalID: 653331094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486c42f2f963434db9e0f1986c6f7f8
+      internalID: -1873379864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d28cd21f766149668162b6457c6ffb5
+      internalID: 1683644143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f36c313e9340dfb9facb31aac3630
+      internalID: -291687980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5074a2cb4d74d809038f544c0d8e99
+      internalID: 2074951308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50b1017a2d044f9a333cddbfe5a51d
+      internalID: -94546114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c94b6666d5b483792a90c551792278
+      internalID: -1517939037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7230ce75bbbf04458a23f9dee4e47805
+      internalID: -1088350714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c00c12b2207a4918953c75221b404f1
+      internalID: 2117029101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6abb92dd92fa444d8c6e5619ed61ebc
+      internalID: -1641946615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_left_click
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbafcfc5b7eac4b07b0bffa89cebbf45
+      internalID: 1270820256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584228968469417fb8254c2be94a3a4
+      internalID: 1752753816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mouse_move_all
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbaaa24c1796473ea9d8b78452e5101
+      internalID: -145699507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faaa08055b0043ee948bd5d019673ff
+      internalID: -474572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222493cd4aa804055ba00755e56a2a04
+      internalID: -1721749175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb978348ade74c3ab9dd87f62af7900
+      internalID: 1079603577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52657b6d2c84503886945915793734
+      internalID: 1006784423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29c3a878c33145339a5aefb78c68135
+      internalID: -1762245119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd486f7b80b94069abfcd0f4adc457b
+      internalID: 1557818095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d00f1f87d99543b89a7c4dce28dd55b
+      internalID: -913338871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f153e02927e420e949207b33a26ec5
+      internalID: 1893528726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc61423a1e9ec4e41b3e85b12194293b
+      internalID: 1851656343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a675836df141dd97dfe563f6b3076
+      internalID: 1143114233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c3be7362ae4bebb471ea658e2f43f
+      internalID: 1372193041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a4f2c0cf9440a1b3ba4f97124edeb
+      internalID: 1140206109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477388fb60c3f4dad9a374ba8a77a725
+      internalID: 625866643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddfdd79e9c3749bbab4b5ac1bc08e00
+      internalID: -671086825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ccf07d6413947a6a6dd766a07c3e7c
+      internalID: 72685596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab7c66bb1f548268edbec7337f4554
+      internalID: 1687624142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de562a924ed14192a4c5f25a6c792bf
+      internalID: -2094044145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_w
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba5ce6f974e24aaf957fe9212ac5897
+      internalID: 766835569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10a89f1445c4600b31a40f9cee2069
+      internalID: 994710144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7120c22dfda4dbea7a998ec47c7f67
+      internalID: 2140021552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef1e58f7a77442aa698dc2386dc2bc
+      internalID: 1278954284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856164097b2ee449b91f074338c7e7c8
+      internalID: 745808699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a9d6b82b9a44debf669c89b5b402c
+      internalID: -1772315069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb2f135ff3b4e2e872fb2ed09216c2
+      internalID: -1195041217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3371fd9fed9404eeebfabb5e69d43540
+      internalID: -1385548903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96257e86a70d14762b9046acc69e0278
+      internalID: -1059723407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b8617128b22407f80b6772c5af14bb
+      internalID: 1259098206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6274d072831d4e6fa8efca6feda5415
+      internalID: 509433729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f0bd5170df24749bf06c5383667ddc
+      internalID: -808544645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06632100d44948aaa4dee9d1a7be0c7
+      internalID: 1627411352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74165c7f634e04945a5f5d7f941491ea
+      internalID: 2000720181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999db1df618db4ffd8ee28d75e3ec488
+      internalID: -1687071209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722d3869c2604b40abdfc743d8b8ace
+      internalID: 1326887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d8db03e4a64cf78bda137dd7a5ddb
+      internalID: -1434275333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9889c6241e51478e9ae47a3dc7448d2
+      internalID: 2140122598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22016afc70af34f4cb5a97c153f0b843
+      internalID: -1026041132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7fda93505e4dceb116007632aad9a
+      internalID: -1008775885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d24561019414054bee771db3de09f5
+      internalID: -1677514805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553dfb163ab1a47fca5ea644f1e4cdd0
+      internalID: -1061046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced249eb1fec24650970a69f536d513f
+      internalID: 1904778192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56627ed1dc075490291f0abcb6f90cbf
+      internalID: 105145981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a962386f4864f899a2d76bfa58dbb3
+      internalID: -390139933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1fe558871704813af8c4d4fe26e6e9
+      internalID: 2059620876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d43c9941b8947f79dac69b108bef86
+      internalID: 640444007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1047c7cda1edc4bfa982012271ed0871
+      internalID: -840171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f819c5eef044f54995138a91fd4dde
+      internalID: 1085191996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a7aaa3258d4770892656de94b3745
+      internalID: -1997132655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51876bdca683420aaace5d95dad6289
+      internalID: -680116912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff533fd2829e4cf784a7510b606931a
+      internalID: 1124436004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d28d07e9242473f8799188f67a7d28
+      internalID: 1817061170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d59d260c1a24df295afa445f04167d
+      internalID: 1382014343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_s
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113697bba879047b2868c3671e13eca6
+      internalID: 234431412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cc984ea551456aae7248bf235b30c
+      internalID: 1719340098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39752a5b6f70c4486955ce7d577b2070
+      internalID: -1325496406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788560d92faf84c4ba682066912a8173
+      internalID: 792897471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c120b2d151c4e0fa05a087dbdb02ef
+      internalID: -2135208746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dc921f3c73468ca506b50794e001c
+      internalID: -1458313729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ab926ec452249cca9c564842d3ae8f
+      internalID: -1192442434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1995f50b876bb4e458fd67ca0aaf132d
+      internalID: -615937356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d22175dcc004717abcf49e360cde8f
+      internalID: -1720183129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e366da39e98f44c74846b0e6a306a1a8
+      internalID: 816850966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef0b877b1f1485091ae0ec121adce2
+      internalID: -1332461883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6d2a6dba9449c99d77b1d057e6464
+      internalID: 1876078329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f40cb7a28a42c79d90ab9a466da0b
+      internalID: 1020879529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522889fb76f254b51be3adfa9083dffa
+      internalID: -730807686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4a6ced136a45a881dde56609ad648
+      internalID: -617638780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab182452b9bd4f73b74092d04797173
+      internalID: -1971833252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401ed56d93f946b1b8754e58c4885c1
+      internalID: -595382330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026cb613159ff459dbe53dd6ab96d70b
+      internalID: 68276410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625336409cced42d2bcdd43992723f33
+      internalID: -1268866660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c371b52ef84f52b1aadbc4ea99ef2
+      internalID: 2051241220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fbccae9f484edbb31d3bd1c8a7d27
+      internalID: 1099334781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4cd3c9d7c9442cca1d3c274c282cb0
+      internalID: 400987667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14fc7dc1e6374b8795e2080005a3abb
+      internalID: 1278295993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79760a4068e754aa2949ad788cce9a5c
+      internalID: 156232279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b702602365e4db1959255b8b3f775a
+      internalID: 1846430987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934cab0ef32041989b09ab30a46da18
+      internalID: -1773039102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee8ba718e3284a2893a7f0f67efaa6d
+      internalID: -1309932646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c097eb01784f73b19724b83a78ef6
+      internalID: 1778088219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f15394d9eda42f1a3a26264d4f2d1a
+      internalID: 41331079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24f6297797e441ca58b0a8988af6a7
+      internalID: 989326656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52614636df68d4a96942547048dd8ccb
+      internalID: -993656138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac226930abf42b192813b305d3471a
+      internalID: -2056423756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381546b6258e24031ac2b30a593db443
+      internalID: 217043973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025e6a6bc09e4f2288b828d38795734
+      internalID: -1307382550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f18754a8bf4de5b829a5c88de12cd
+      internalID: -669451084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6dd8bc5ef8e413db7f27ab4aa8b44f
+      internalID: 1219579183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2f237e3d1f4bf4aa21d1f1f73fff9
+      internalID: 1998643033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f060938050e445b857dcca7917d00c
+      internalID: 2033232938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612a86c843a94cae9d157e76a31341d
+      internalID: 541610538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cb654c95a41466bbf4518b17d751ce
+      internalID: 14775339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c797a7871324d88b48e89ab00c8239
+      internalID: -1590385843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f33431c43a94809ba4c203fd65a630
+      internalID: 2109660000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f92c4fa8ee4499bc41b20f13608e9
+      internalID: -1852956665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2ccca5873e47e4b76164c3fcee5a2
+      internalID: 438462905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739ffe54ffad74ba3951d9e2574d949f
+      internalID: 595722686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7a2ddd34ca441e91c821d48ee3d23
+      internalID: 823781872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb129e264af44458b464e8431f8b805
+      internalID: -1882406240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b489a80bb704cc0ad20b805b538a94
+      internalID: 1480089019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72093f3014d3b4142915d57589bd46d3
+      internalID: 1022047352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a83cbb068343c0a605f0c1db314ec
+      internalID: -1088417550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd844e248004cc5b97afd8f01757a5
+      internalID: -404818189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9956ae347260494db7d60df6a24c0dd
+      internalID: 1375280487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4043b1664a24551a1370e605d954df
+      internalID: -1334954070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103fe958c5804cf0ab7935da443a1b1
+      internalID: -1198889283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27fddc62cdca41d38fbef4515dfda43
+      internalID: -1605601808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8420615ade47d42d08f69303df87266c
+      internalID: 465604592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da262baede3eb475d9afb4eb3f9128c8
+      internalID: -1516420794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e784ff1a9f6a479b9d3738cd000f7f9
+      internalID: 328881333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327448587d37b4027a182d8e245414bf
+      internalID: 1465905737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fb1bc8bbaa46a293b41bdbd4974b9
+      internalID: 1462149638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db74d0a4e40c44c78543f691dae4368
+      internalID: 267770347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdb2ae92f70422a97ff46018995717
+      internalID: 834765616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae11f1ef922448ba8993503fb4dd829
+      internalID: 1499249854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432a1d9cd0d64a28a0495dc8e2ee6c0
+      internalID: -1987240005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529b9c7091df49978e170acdb73d077
+      internalID: 1249439066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c17bf379f8942dab9aabeb5eed0c7a
+      internalID: 1913641158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3bbb07337544f88ae347656f624aec
+      internalID: -1286502788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c98ac489e204785bd502020d41d797
+      internalID: 1472514765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746a7417c3164e49ad3129082ccd7bf
+      internalID: -1477436336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ab0a86e7684e688311de813d6c5b0
+      internalID: -2117229603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a5b3bc17044b55adee239e963d4f9
+      internalID: 1964065928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa975c86b2e0f48298c837141fe18160
+      internalID: -1175051556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb96351c15c94b1790a35fef3de16bb
+      internalID: -1414602200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cac64b2775a43eea26e0952df8c4e5
+      internalID: -360444448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b232ba850a794642bbc04d1769ea38a
+      internalID: -402334080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcfe08a1f529499684c412693b557f1
+      internalID: -80606070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514eb47e510df4ee2bcfe8d5a1a89e36
+      internalID: 1782775636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e7e4bbcb8f495995d1a0dfc72c417
+      internalID: 653538378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2203695889af4733aaa258ca9414a8c
+      internalID: 109594124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb6767767c3d41b7a35e294db5304ef
+      internalID: 302813655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49295fbcbd5a24c77b82138188255b55
+      internalID: 1977403420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b6bfaa9cd546eb89ae9cf60269540
+      internalID: 1717399976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bca95ed513b54ec5aec10a9cd9281a2
+      internalID: -42849951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b8bf5276a44d20a1530d210f95165
+      internalID: 845005842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839f949af1b7041a48335f29b20a4e71
+      internalID: -489379016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bbc447305e9488f981754fccfb4313
+      internalID: 331997185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c88c3e5dc94b59842c0d110e6e174
+      internalID: -1745107967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09be12c4d6d64df0a8113910c2927cb
+      internalID: 798442099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927794d828844cc3b42ea10e7095824
+      internalID: 1735425835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1160a7085f164a5180d7d1e50214ffd
+      internalID: -2073499036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85defca5c857b429da3e9ebc6e597b41
+      internalID: 1586812243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf69282048054b63aadf4b84d003a4b
+      internalID: 437801895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fbf2b5cf1242168a8855b2ae42186
+      internalID: -1742821768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_d
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413a6fcd07a6493ba916b71e5fe822a
+      internalID: -1129904866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a65ec2ccd37424d84850ac84a7a207
+      internalID: -1405072495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130ed1dd8cda425caec712a963d4c93
+      internalID: -505489613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837ff9b751d342b8b05346bc9474fe4
+      internalID: 1848683506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964bc234d11143b5ae29ae3d866fe1e
+      internalID: -729432368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778492b6791f4c6ba69ce3b1a327fc0
+      internalID: -1286508992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65f021e27c947efaa0face1a321fc6
+      internalID: -1620397219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a2cf1952644d349d3a1903c96c34f
+      internalID: -275810607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8acb6ce2b6c04d02a1b8aba39151e09
+      internalID: 2127948729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79969db49b25a46a7bc9d1ccdd22247e
+      internalID: -1907801244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ec25cc794549988a6554df83eec66
+      internalID: -629596201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c91922a3af4218940c5905c903fca
+      internalID: -1934418299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f941e6c9b994482803d0fc801cb734
+      internalID: -1047858569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64216bb7edfb4b7ca938eebb71f172f
+      internalID: -2045152602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f56aeebaf44aa8b56937334721ab6
+      internalID: 630215222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d73e6263e04b3ba8a1f999d8a9b77
+      internalID: -1914707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796cdd0609a524570ad49429f65cfa29
+      internalID: 808350780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d09eba2567754067a567ae54d777eca
+      internalID: 968639318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae0010282724ddfa0f0face65482d4
+      internalID: 1191221164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e35f823bd634a868f6c1c24e4065b2
+      internalID: -1795248269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a147cd8cb3b4190996724ba56fc714
+      internalID: 456626157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02231c04752c4a2092d8b6f84e42a32
+      internalID: -1777971152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6f2c842ebc4859b966dcf886bd64f
+      internalID: 2122467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7166169a4432f4dc3aa99f889122281d
+      internalID: 2086030361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18c6687bb104f9db6f7bb4050d0acd
+      internalID: -26243337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16fe416fcf14b0db7fd98c8d8201a1
+      internalID: 1388014040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec05f6ed24548099b021c6410ec066
+      internalID: 137361491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f0681efaed497094edbacecf11ff7
+      internalID: -869797959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8aa59ade0384421ad283429105ac20
+      internalID: 1933394583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e2c730aa614e6e8fa4a036459eea3
+      internalID: -1351082909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabb8188e2534f8c82188f40dfcbb15
+      internalID: 287670711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c17c40665e4a238e8b0fc69a04e7b
+      internalID: -1048619274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167d45e218984348b3b236d77b5c2ab
+      internalID: -313406712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b972ee5f6a4b6b9f0c1cef197e1e2
+      internalID: 1958228508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573205febde3e499795b3512267f3cfa
+      internalID: 1246978387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f722a144262694b09a15c6da784e776b
+      internalID: 1825851491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0917742f71d4d18a6d8a48ecff870f
+      internalID: 718289114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9721d7ce4bcd41f49395edec989f25c
+      internalID: 1572525097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e3177338f34f7da2ef0cb9019dfff
+      internalID: 515538783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f857b16d48974c6f949b51849a56e32
+      internalID: 1880765210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5bb9d1dcec416ca3a3ceaee743e40
+      internalID: -868301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3034f3477e42be845a65b48eb7bb7
+      internalID: -714741101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5732ebc3c24604ad3b235d795d29c
+      internalID: 1941372103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e063f0887145b69ead4d829f8d63a
+      internalID: 931181922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd796e0002724626818695b8995e892
+      internalID: -1848360380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f40b0e12ea4b459f51368de37d90d
+      internalID: 1356648018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3de12e259344305b0c16c9b4bbb5fb
+      internalID: 273551695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a15234a8a640f78d062d7d808e479
+      internalID: -1541837237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_dir_all
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a35b488f77409199b682f160cf388
+      internalID: -263899783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_down
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f605cdfc776849bd9442d15034dab57
+      internalID: -1510114258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de09621fd1f4bc08bcf6eb20afbaa5
+      internalID: -1031556631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c8832c4b1849aabe7cc327b66c4e0
+      internalID: 1391905286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c2b476db13849a9b2180a0d3144d39
+      internalID: -2143004983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_left
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf38b3be6d644c68bf40c005494a5a
+      internalID: 1993032734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d0ad3350e048398b1d8446455f2fd
+      internalID: -1542395660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2ae40232744588b905f97e7ea1807
+      internalID: -362203250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_right
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d253d57beb4863bc46f9c398a2b58
+      internalID: -1617571332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd6b3a7dcb7e4053b497c184e7838c1
+      internalID: 876945462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e9873eebec4305a5353e5d8ee5bce
+      internalID: -2068832897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ad8e58f19146138c458d5ee6ad6e5
+      internalID: -119444957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54de3161fd8d40acbd8f8169886d94e
+      internalID: -565343032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b281bd4c4af10444894d0ad94936f978
+      internalID: 1313897407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598009b90693d4cef824db8a6691038a
+      internalID: -497701268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key_a
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8848ef262086a4333a54268fa6c621f4
+      internalID: -198145625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a50764aad642f1bfcbe267d10ce3c
+      internalID: -1658246881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2ae2a90977a4187ab10297e629da58
+      internalID: 1617421832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce6d0e8c9ed4353802fc668d7a012d
+      internalID: 1595704056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a315e5f36134e67bf3f6956a5a3b09
+      internalID: -2143272314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109be15834304f7e983e1953809f47b
+      internalID: 2091279152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcdfb0ef88114daa95979f5a2bae154
+      internalID: 289458194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91baa929ee8b4167aeaa5e780c9474d
+      internalID: 379792461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7018d74e95e43a3ad0cb7aef93dfa9
+      internalID: -1525339249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6a30694d5843b2beabfea8caeb19c
+      internalID: -1831414024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c49ab9f6b6468d9a8f26b6c4b4366
+      internalID: 1000110221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160996ece382407b998bfc80c7c5734
+      internalID: -2095176841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06e2eaab3fd4805b893816a626c2bb
+      internalID: 903206171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06a082f2cf24d84950e47890900c8c
+      internalID: 1085868812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870c2226f8284618bbce1699c88f6fc
+      internalID: -943307705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e1e1b62f3ff4e8eb311b6dbbe53280
+      internalID: 1753707571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979eb0fd021b42a4938a4d5fd9f8590
+      internalID: 245417406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a0b3f93c46493ea0de3b3e3bdd409
+      internalID: -97284524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107f027b206904d58970541fe767bb58
+      internalID: 677077857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c1781642a14b61ab8b98512dd2b07
+      internalID: -2131812162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb612a46c17304f4ca26ab5329f17b55
+      internalID: -813107500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a07acea7c864c4699caf862dafb204
+      internalID: -418782544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6528eacdfd34f708c762be7ef3d33d
+      internalID: 451532230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3097456486aa64d1380ea447310a30be
+      internalID: -466710893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b064c476024900a6b4f86e958d9e7
+      internalID: -874403926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fbb85029186479882d1f7b2297357d
+      internalID: -1664815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_keyboard_mouse_tilesheet_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a1aca2d2b244d0808ecc3aa19d883
+      internalID: 1997223422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0988e81410dca48c6890eb4151fcfd48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      key_a: -198145625
+      key_d: -1129904866
+      key_dir_all: -263899783
+      key_down: -1510114258
+      key_left: 1993032734
+      key_right: -1617571332
+      key_s: 234431412
+      key_up: 137361491
+      key_w: 766835569
+      mouse_left_click: 1270820256
+      mouse_move_all: -145699507
+      ui_keyboard_mouse_tilesheet_0: 1125267578
+      ui_keyboard_mouse_tilesheet_1: 1627997035
+      ui_keyboard_mouse_tilesheet_10: -1873379864
+      ui_keyboard_mouse_tilesheet_100: 1778088219
+      ui_keyboard_mouse_tilesheet_101: 41331079
+      ui_keyboard_mouse_tilesheet_102: 989326656
+      ui_keyboard_mouse_tilesheet_103: -993656138
+      ui_keyboard_mouse_tilesheet_104: -2056423756
+      ui_keyboard_mouse_tilesheet_105: 217043973
+      ui_keyboard_mouse_tilesheet_106: -1307382550
+      ui_keyboard_mouse_tilesheet_107: -669451084
+      ui_keyboard_mouse_tilesheet_108: 1219579183
+      ui_keyboard_mouse_tilesheet_109: 1998643033
+      ui_keyboard_mouse_tilesheet_11: 1683644143
+      ui_keyboard_mouse_tilesheet_110: 2033232938
+      ui_keyboard_mouse_tilesheet_111: 541610538
+      ui_keyboard_mouse_tilesheet_112: 14775339
+      ui_keyboard_mouse_tilesheet_113: -1590385843
+      ui_keyboard_mouse_tilesheet_114: 2109660000
+      ui_keyboard_mouse_tilesheet_115: -1852956665
+      ui_keyboard_mouse_tilesheet_116: 438462905
+      ui_keyboard_mouse_tilesheet_117: 595722686
+      ui_keyboard_mouse_tilesheet_118: 823781872
+      ui_keyboard_mouse_tilesheet_119: -1882406240
+      ui_keyboard_mouse_tilesheet_12: -291687980
+      ui_keyboard_mouse_tilesheet_120: 1480089019
+      ui_keyboard_mouse_tilesheet_121: 1022047352
+      ui_keyboard_mouse_tilesheet_122: -1088417550
+      ui_keyboard_mouse_tilesheet_123: -404818189
+      ui_keyboard_mouse_tilesheet_124: 1375280487
+      ui_keyboard_mouse_tilesheet_125: -1334954070
+      ui_keyboard_mouse_tilesheet_126: -1198889283
+      ui_keyboard_mouse_tilesheet_127: -1605601808
+      ui_keyboard_mouse_tilesheet_128: 465604592
+      ui_keyboard_mouse_tilesheet_129: -1516420794
+      ui_keyboard_mouse_tilesheet_13: 2074951308
+      ui_keyboard_mouse_tilesheet_130: 328881333
+      ui_keyboard_mouse_tilesheet_131: 1465905737
+      ui_keyboard_mouse_tilesheet_132: 1462149638
+      ui_keyboard_mouse_tilesheet_133: 267770347
+      ui_keyboard_mouse_tilesheet_134: 834765616
+      ui_keyboard_mouse_tilesheet_135: 1499249854
+      ui_keyboard_mouse_tilesheet_136: -1987240005
+      ui_keyboard_mouse_tilesheet_137: 1249439066
+      ui_keyboard_mouse_tilesheet_138: 1913641158
+      ui_keyboard_mouse_tilesheet_139: -1286502788
+      ui_keyboard_mouse_tilesheet_14: -94546114
+      ui_keyboard_mouse_tilesheet_140: 1472514765
+      ui_keyboard_mouse_tilesheet_141: -1477436336
+      ui_keyboard_mouse_tilesheet_142: -2117229603
+      ui_keyboard_mouse_tilesheet_143: 1964065928
+      ui_keyboard_mouse_tilesheet_144: -1175051556
+      ui_keyboard_mouse_tilesheet_145: -1414602200
+      ui_keyboard_mouse_tilesheet_146: -360444448
+      ui_keyboard_mouse_tilesheet_147: -402334080
+      ui_keyboard_mouse_tilesheet_148: -80606070
+      ui_keyboard_mouse_tilesheet_149: 1782775636
+      ui_keyboard_mouse_tilesheet_15: -1517939037
+      ui_keyboard_mouse_tilesheet_150: 653538378
+      ui_keyboard_mouse_tilesheet_151: 109594124
+      ui_keyboard_mouse_tilesheet_152: 302813655
+      ui_keyboard_mouse_tilesheet_153: 1977403420
+      ui_keyboard_mouse_tilesheet_154: 1717399976
+      ui_keyboard_mouse_tilesheet_155: -42849951
+      ui_keyboard_mouse_tilesheet_156: 845005842
+      ui_keyboard_mouse_tilesheet_157: -489379016
+      ui_keyboard_mouse_tilesheet_158: 331997185
+      ui_keyboard_mouse_tilesheet_159: -1745107967
+      ui_keyboard_mouse_tilesheet_16: -1088350714
+      ui_keyboard_mouse_tilesheet_160: 798442099
+      ui_keyboard_mouse_tilesheet_161: 1735425835
+      ui_keyboard_mouse_tilesheet_162: -2073499036
+      ui_keyboard_mouse_tilesheet_163: 1586812243
+      ui_keyboard_mouse_tilesheet_164: 437801895
+      ui_keyboard_mouse_tilesheet_165: -1742821768
+      ui_keyboard_mouse_tilesheet_167: -1405072495
+      ui_keyboard_mouse_tilesheet_168: -505489613
+      ui_keyboard_mouse_tilesheet_169: 1848683506
+      ui_keyboard_mouse_tilesheet_17: 2117029101
+      ui_keyboard_mouse_tilesheet_170: -729432368
+      ui_keyboard_mouse_tilesheet_171: -1286508992
+      ui_keyboard_mouse_tilesheet_172: -1620397219
+      ui_keyboard_mouse_tilesheet_173: -275810607
+      ui_keyboard_mouse_tilesheet_174: 2127948729
+      ui_keyboard_mouse_tilesheet_175: -1907801244
+      ui_keyboard_mouse_tilesheet_176: -629596201
+      ui_keyboard_mouse_tilesheet_177: -1934418299
+      ui_keyboard_mouse_tilesheet_178: -1047858569
+      ui_keyboard_mouse_tilesheet_179: -2045152602
+      ui_keyboard_mouse_tilesheet_18: -1641946615
+      ui_keyboard_mouse_tilesheet_180: 630215222
+      ui_keyboard_mouse_tilesheet_181: -1914707565
+      ui_keyboard_mouse_tilesheet_182: 808350780
+      ui_keyboard_mouse_tilesheet_183: 968639318
+      ui_keyboard_mouse_tilesheet_184: 1191221164
+      ui_keyboard_mouse_tilesheet_185: -1795248269
+      ui_keyboard_mouse_tilesheet_186: 456626157
+      ui_keyboard_mouse_tilesheet_187: -1777971152
+      ui_keyboard_mouse_tilesheet_188: 2122467385
+      ui_keyboard_mouse_tilesheet_189: 2086030361
+      ui_keyboard_mouse_tilesheet_190: -26243337
+      ui_keyboard_mouse_tilesheet_191: 1388014040
+      ui_keyboard_mouse_tilesheet_193: -869797959
+      ui_keyboard_mouse_tilesheet_194: 1933394583
+      ui_keyboard_mouse_tilesheet_195: -1351082909
+      ui_keyboard_mouse_tilesheet_196: 287670711
+      ui_keyboard_mouse_tilesheet_197: -1048619274
+      ui_keyboard_mouse_tilesheet_198: -313406712
+      ui_keyboard_mouse_tilesheet_199: 1958228508
+      ui_keyboard_mouse_tilesheet_2: 1828657141
+      ui_keyboard_mouse_tilesheet_20: 1752753816
+      ui_keyboard_mouse_tilesheet_200: 1246978387
+      ui_keyboard_mouse_tilesheet_201: 1825851491
+      ui_keyboard_mouse_tilesheet_202: 718289114
+      ui_keyboard_mouse_tilesheet_203: 1572525097
+      ui_keyboard_mouse_tilesheet_204: 515538783
+      ui_keyboard_mouse_tilesheet_205: 1880765210
+      ui_keyboard_mouse_tilesheet_206: -868301498
+      ui_keyboard_mouse_tilesheet_207: -714741101
+      ui_keyboard_mouse_tilesheet_208: 1941372103
+      ui_keyboard_mouse_tilesheet_209: 931181922
+      ui_keyboard_mouse_tilesheet_210: -1848360380
+      ui_keyboard_mouse_tilesheet_211: 1356648018
+      ui_keyboard_mouse_tilesheet_212: 273551695
+      ui_keyboard_mouse_tilesheet_213: -1541837237
+      ui_keyboard_mouse_tilesheet_216: -1031556631
+      ui_keyboard_mouse_tilesheet_217: 1391905286
+      ui_keyboard_mouse_tilesheet_218: -2143004983
+      ui_keyboard_mouse_tilesheet_22: -474572718
+      ui_keyboard_mouse_tilesheet_220: -1542395660
+      ui_keyboard_mouse_tilesheet_221: -362203250
+      ui_keyboard_mouse_tilesheet_223: 876945462
+      ui_keyboard_mouse_tilesheet_224: -2068832897
+      ui_keyboard_mouse_tilesheet_225: -119444957
+      ui_keyboard_mouse_tilesheet_226: -565343032
+      ui_keyboard_mouse_tilesheet_227: 1313897407
+      ui_keyboard_mouse_tilesheet_228: -497701268
+      ui_keyboard_mouse_tilesheet_23: -1721749175
+      ui_keyboard_mouse_tilesheet_230: -1658246881
+      ui_keyboard_mouse_tilesheet_231: 1617421832
+      ui_keyboard_mouse_tilesheet_232: 1595704056
+      ui_keyboard_mouse_tilesheet_233: -2143272314
+      ui_keyboard_mouse_tilesheet_234: 2091279152
+      ui_keyboard_mouse_tilesheet_235: 289458194
+      ui_keyboard_mouse_tilesheet_236: 379792461
+      ui_keyboard_mouse_tilesheet_237: -1525339249
+      ui_keyboard_mouse_tilesheet_238: -1831414024
+      ui_keyboard_mouse_tilesheet_239: 1000110221
+      ui_keyboard_mouse_tilesheet_24: 1079603577
+      ui_keyboard_mouse_tilesheet_240: -2095176841
+      ui_keyboard_mouse_tilesheet_241: 903206171
+      ui_keyboard_mouse_tilesheet_242: 1085868812
+      ui_keyboard_mouse_tilesheet_243: -943307705
+      ui_keyboard_mouse_tilesheet_244: 1753707571
+      ui_keyboard_mouse_tilesheet_245: 245417406
+      ui_keyboard_mouse_tilesheet_246: -97284524
+      ui_keyboard_mouse_tilesheet_247: 677077857
+      ui_keyboard_mouse_tilesheet_248: -2131812162
+      ui_keyboard_mouse_tilesheet_249: -813107500
+      ui_keyboard_mouse_tilesheet_25: 1006784423
+      ui_keyboard_mouse_tilesheet_250: -418782544
+      ui_keyboard_mouse_tilesheet_251: 451532230
+      ui_keyboard_mouse_tilesheet_252: -466710893
+      ui_keyboard_mouse_tilesheet_253: -874403926
+      ui_keyboard_mouse_tilesheet_254: -1664815679
+      ui_keyboard_mouse_tilesheet_255: 1997223422
+      ui_keyboard_mouse_tilesheet_26: -1762245119
+      ui_keyboard_mouse_tilesheet_27: 1557818095
+      ui_keyboard_mouse_tilesheet_28: -913338871
+      ui_keyboard_mouse_tilesheet_29: 1893528726
+      ui_keyboard_mouse_tilesheet_3: 472978433
+      ui_keyboard_mouse_tilesheet_30: 1851656343
+      ui_keyboard_mouse_tilesheet_31: 1143114233
+      ui_keyboard_mouse_tilesheet_32: 1372193041
+      ui_keyboard_mouse_tilesheet_33: 1140206109
+      ui_keyboard_mouse_tilesheet_34: 625866643
+      ui_keyboard_mouse_tilesheet_35: -671086825
+      ui_keyboard_mouse_tilesheet_36: 72685596
+      ui_keyboard_mouse_tilesheet_37: 1687624142
+      ui_keyboard_mouse_tilesheet_38: -2094044145
+      ui_keyboard_mouse_tilesheet_4: 636908383
+      ui_keyboard_mouse_tilesheet_40: 994710144
+      ui_keyboard_mouse_tilesheet_41: 2140021552
+      ui_keyboard_mouse_tilesheet_42: 1278954284
+      ui_keyboard_mouse_tilesheet_43: 745808699
+      ui_keyboard_mouse_tilesheet_44: -1772315069
+      ui_keyboard_mouse_tilesheet_45: -1195041217
+      ui_keyboard_mouse_tilesheet_46: -1385548903
+      ui_keyboard_mouse_tilesheet_47: -1059723407
+      ui_keyboard_mouse_tilesheet_48: 1259098206
+      ui_keyboard_mouse_tilesheet_49: 509433729
+      ui_keyboard_mouse_tilesheet_5: -115087006
+      ui_keyboard_mouse_tilesheet_50: -808544645
+      ui_keyboard_mouse_tilesheet_51: 1627411352
+      ui_keyboard_mouse_tilesheet_52: 2000720181
+      ui_keyboard_mouse_tilesheet_53: -1687071209
+      ui_keyboard_mouse_tilesheet_54: 1326887626
+      ui_keyboard_mouse_tilesheet_55: -1434275333
+      ui_keyboard_mouse_tilesheet_56: 2140122598
+      ui_keyboard_mouse_tilesheet_57: -1026041132
+      ui_keyboard_mouse_tilesheet_58: -1008775885
+      ui_keyboard_mouse_tilesheet_59: -1677514805
+      ui_keyboard_mouse_tilesheet_6: -609434276
+      ui_keyboard_mouse_tilesheet_60: -1061046223
+      ui_keyboard_mouse_tilesheet_61: 1904778192
+      ui_keyboard_mouse_tilesheet_62: 105145981
+      ui_keyboard_mouse_tilesheet_63: -390139933
+      ui_keyboard_mouse_tilesheet_64: 2059620876
+      ui_keyboard_mouse_tilesheet_65: 640444007
+      ui_keyboard_mouse_tilesheet_66: -840171158
+      ui_keyboard_mouse_tilesheet_67: 1085191996
+      ui_keyboard_mouse_tilesheet_68: -1997132655
+      ui_keyboard_mouse_tilesheet_69: -680116912
+      ui_keyboard_mouse_tilesheet_7: -1290627880
+      ui_keyboard_mouse_tilesheet_70: 1124436004
+      ui_keyboard_mouse_tilesheet_71: 1817061170
+      ui_keyboard_mouse_tilesheet_72: 1382014343
+      ui_keyboard_mouse_tilesheet_74: 1719340098
+      ui_keyboard_mouse_tilesheet_75: -1325496406
+      ui_keyboard_mouse_tilesheet_76: 792897471
+      ui_keyboard_mouse_tilesheet_77: -2135208746
+      ui_keyboard_mouse_tilesheet_78: -1458313729
+      ui_keyboard_mouse_tilesheet_79: -1192442434
+      ui_keyboard_mouse_tilesheet_8: 1987500639
+      ui_keyboard_mouse_tilesheet_80: -615937356
+      ui_keyboard_mouse_tilesheet_81: -1720183129
+      ui_keyboard_mouse_tilesheet_82: 816850966
+      ui_keyboard_mouse_tilesheet_83: -1332461883
+      ui_keyboard_mouse_tilesheet_84: 1876078329
+      ui_keyboard_mouse_tilesheet_85: 1020879529
+      ui_keyboard_mouse_tilesheet_86: -730807686
+      ui_keyboard_mouse_tilesheet_87: -617638780
+      ui_keyboard_mouse_tilesheet_88: -1971833252
+      ui_keyboard_mouse_tilesheet_89: -595382330
+      ui_keyboard_mouse_tilesheet_9: 653331094
+      ui_keyboard_mouse_tilesheet_90: 68276410
+      ui_keyboard_mouse_tilesheet_91: -1268866660
+      ui_keyboard_mouse_tilesheet_92: 2051241220
+      ui_keyboard_mouse_tilesheet_93: 1099334781
+      ui_keyboard_mouse_tilesheet_94: 400987667
+      ui_keyboard_mouse_tilesheet_95: 1278295993
+      ui_keyboard_mouse_tilesheet_96: 156232279
+      ui_keyboard_mouse_tilesheet_97: 1846430987
+      ui_keyboard_mouse_tilesheet_98: -1773039102
+      ui_keyboard_mouse_tilesheet_99: -1309932646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
